@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👨‍💻 Henrique Villela Silva
 
-<!--
-**ohenriquevillela/ohenriquevillela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Informatics student at **Federal University of Paraná (UFPR)**  
+📚 Currently focused on **C/C++ development** and learning **data structures and algorithms**  
+📫 Contact: henriquevillela@ufpr.br
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I use
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pascal/Delphi-blue?style=flat&logo=delphi" height="30" alt="Pascal"/>
+</p>
+
+---
+
+## 🌟 Interests & Projects
+
+- Currently exploring **C++ desktop applications** using **VCL / RAD Studio**
+- Interested in **algorithms**, **data structures**, and **bioinformatics tools**
+- Looking forward to applying software engineering in healthcare and research contexts
+
+---
+
+⚡ *Always learning, always building.*
